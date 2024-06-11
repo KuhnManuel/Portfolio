@@ -2,6 +2,8 @@
 
 Welcome to my development portfolio! This repository marks the beginning of my journey in software development. Here, I will be adding projects as I progress, showcasing my learning and growth in the field. Each project will include a brief description, key features, and the technologies used.
 
+- [Versión en Español](README.es.md)
+
 ## Projects
 
 1. **Virtual English School**
